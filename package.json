@@ -9,7 +9,7 @@
   "author": "Nico Lueg (nicolueg@yahoo.de)",
   "license": "MIT",
   "dependencies": {
-    "node-java-connector": "file:../node-java-connector"
+    "node-java-connector": "^1.0.1"
   },
   "devDependencies": {
     "ts-node": "^10.4.0"
