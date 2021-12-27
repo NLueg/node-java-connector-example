@@ -1,0 +1,17 @@
+{
+  "name": "java-connector-example",
+  "version": "1.0.0",
+  "description": "Example usage of the node-java-connector",
+  "main": "index.js",
+  "scripts": {
+    "install": "ts-node src/install.ts"
+  },
+  "author": "Nico Lueg (nicolueg@yahoo.de)",
+  "license": "MIT",
+  "dependencies": {
+    "node-java-connector": "file:../node-java-connector"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0"
+  }
+}
